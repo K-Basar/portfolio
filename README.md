@@ -18,7 +18,7 @@
 
 ## Projects
 ### 🚦 **Traffic Simulation & Optimization at LamaBazar Intersection**  
-📄 **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#) _(Add link if available)_  
+📄 **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#)  
 🔹 Developed an **Arena simulation model** to optimize traffic flow at a congested **4-way intersection** in Sylhet.  
 🔹 Proposed **dedicated turning lanes**, reducing waiting time by **50-60%** and improving lane utilization to **92%**.  
 🔹 **Technologies:** Arena Simulation, Python, Excel  
