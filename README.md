@@ -49,17 +49,17 @@
   - **Technologies:** Computer Vision, Arduino  
 
 ### Certifications
-**Excel/VBA for Creative Problem Solving**  
-*Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
-- Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
-- Applied learning in real-world projects through a capstone design course.  
-- **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
+- **Excel/VBA for Creative Problem Solving**  
+ - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
+ - Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
+ - Applied learning in real-world projects through a capstone design course.  
+ - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
 
-**Everyday Excel**  
-*Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
-- Gained expertise in performing calculations, data visualization, and financial modeling in Excel.  
-- Learned advanced techniques such as lookups, dynamic array formulas, and managing large datasets.  
-- **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W7T6SZ8DJ3EJ)  
+- **Everyday Excel**  
+ - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
+ - Gained expertise in performing calculations, data visualization, and financial modeling in Excel.  
+ - Learned advanced techniques such as lookups, dynamic array formulas, and managing large datasets.  
+ - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W7T6SZ8DJ3EJ)  
 
 ## Technical Skills
 - **Data Science & Analytics:** Python, Data Science, Excel VBA, Microsoft Excel, Microsoft Power BI  
