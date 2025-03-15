@@ -17,16 +17,16 @@
   - Designed and conducted tutorial sessions, improving learning effectiveness.
 
 ## Projects
-### Dual-Prediction System for Traffic Density and Vehicle Energy Consumption Using Machine Learning
-Developed an advanced ML model using **Python** for real-time prediction of traffic density and vehicle energy consumption. The system aids in optimizing fuel efficiency and route planning for urban transportation.
+- ### Dual-Prediction System for Traffic Density and Vehicle Energy Consumption Using **Machine Learning.**
+Developed an advanced **ML model using Python** for real-time prediction of traffic density and vehicle energy consumption. The system aids in optimizing fuel efficiency and route planning for urban transportation.
 
-### Excel ChatGPT Integration: Automating Web Scraping and Prompt Responses with VBA
+- ### Excel ChatGPT Integration: Automating Web Scraping and Prompt Responses with VBA
 Integrated ChatGPT with **Excel VBA** to automate web scraping and instant response generation, enhancing data analysis workflows and automation capabilities.
 
-### Bottleneck Analysis of Production Floor at Premium Fish and Agro Ind. Ltd.
+- ### Bottleneck Analysis of Production Floor at Premium Fish and Agro Ind. Ltd.
 Conducted a detailed bottleneck analysis and applied scheduling techniques to minimize delays and improve production efficiency.
 
-### Object Detection Safety System for Hazardous Industrial Machinery
+- ### Object Detection Safety System for Hazardous Industrial Machinery
 Designed an AI-based **object detection system** to enhance workplace safety in industrial environments, preventing machinery-related hazards.
 
 ## Technical Skills
@@ -41,7 +41,7 @@ Designed an AI-based **object detection system** to enhance workplace safety in 
   - Acquired exposure to industrial ceramic manufacturing processes.
 
 ## Interests
-Poetry, Chess, Reading, Travelling
+**Poetry**, Chess, Reading, Travelling
 
 ## Connect with Me
 - **Email:** [kbasar.bq@gmail.com](mailto:kbasar.bq@gmail.com)  
