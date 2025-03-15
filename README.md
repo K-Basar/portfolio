@@ -59,5 +59,5 @@
 
 ## Connect with Me
 - **Email:** [kbasar.bq@gmail.com](mailto:kbasar.bq@gmail.com)  
-- **LinkedIn:** [Md. Khairul Basar | LinkedIn](https://www.linkedin.com/in/md-khairul-basar-b19282247/)  
+- **LinkedIn:** [Md. Khairul Basar](https://www.linkedin.com/in/md-khairul-basar-b19282247/)  
 - **WhatsApp:** [+880 1822 887922](https://wa.me/+8801822887922/)
