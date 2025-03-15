@@ -1,9 +1,15 @@
-# Industrial & Production Engineer
-
 ## Education
-- B.Sc., Industrial & Production Engineering (IPE) | Shahjalal University of Science and Technology, Sylhet (SUST) (2020-Present) | CGPA: 3.45/ 4.00 Up to 7th semester
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **B.Sc., Industrial & Production Engineering (IPE)**  
+  **Shahjalal University of Science and Technology, Sylhet (SUST)**  
+  (2020-Present) | CGPA: 3.45/4.00 (Up to 7th semester)
+
+- **M.S., Physics**  
+  **The University of Texas at Dallas**  
+  (_December 2019_)
+
+- **B.S., Physics**  
+  **The University of Texas at Dallas**  
+  (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
