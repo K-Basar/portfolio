@@ -17,17 +17,31 @@
   - Designed and conducted tutorial sessions, improving learning effectiveness.
 
 ## Projects
-- ### Dual-Prediction System for Traffic Density and Vehicle Energy Consumption Using **Machine Learning.**
-Developed an advanced **ML model using Python** for real-time prediction of traffic density and vehicle energy consumption. The system aids in optimizing fuel efficiency and route planning for urban transportation.
+### 🚦 **Traffic Simulation & Optimization at LamaBazar Intersection**  
+📄 **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#) _(Add link if available)_  
+🔹 Developed an **Arena simulation model** to optimize traffic flow at a congested **4-way intersection** in Sylhet.  
+🔹 Proposed **dedicated turning lanes**, reducing waiting time by **50-60%** and improving lane utilization to **92%**.  
+🔹 **Technologies:** Arena Simulation, Python, Excel  
 
-- ### Excel ChatGPT Integration: Automating Web Scraping and Prompt Responses with VBA
-Integrated ChatGPT with **Excel VBA** to automate web scraping and instant response generation, enhancing data analysis workflows and automation capabilities.
+### 📊 **Dual-Prediction System** for Traffic Density & Vehicle Energy Consumption Using **Machine Learning**  
+🔹 Built a **Python-based ML model** for **real-time traffic density and fuel consumption prediction**.  
+🔹 Aids in **route optimization and fuel efficiency** for urban transportation.  
+🔹 **Technologies:** Python (Pandas, Scikit-learn), Machine Learning, Data Science  
 
-- ### Bottleneck Analysis of Production Floor at Premium Fish and Agro Ind. Ltd.
-Conducted a detailed bottleneck analysis and applied scheduling techniques to minimize delays and improve production efficiency.
+### 🔗 **Excel-ChatGPT Integration: Automating Web Scraping & AI Responses with VBA**  
+🔹 Integrated **ChatGPT with Excel VBA** to automate **web scraping and instant AI responses**.  
+🔹 Streamlined data extraction and **enhanced workflow automation**.  
+🔹 **Technologies:** Excel VBA, OpenAI API, Web Scraping  
 
-- ### Object Detection Safety System for Hazardous Industrial Machinery
-Designed an AI-based **object detection system** to enhance workplace safety in industrial environments, preventing machinery-related hazards.
+### 🏭 **Bottleneck Analysis & Scheduling Optimization at Premium Fish & Agro Ind. Ltd.**  
+🔹 Conducted a **bottleneck analysis** of the production floor using **data-driven methods**.  
+🔹 Applied **scheduling techniques** to reduce **delays and increase efficiency**.  
+🔹 **Technologies:** Excel, Operations Research, Scheduling Algorithms  
+
+### 🏗 **Object Detection Safety System for Industrial Machinery**  
+🔹 Designed an **Object detection system** to enhance workplace safety.  
+🔹 Prevents machinery-related hazards by identifying risky movements in real-time.  
+🔹 **Technologies:** Computer Vision, Arduino  
 
 ## Technical Skills
 - **Data Science & Analytics:** Python, Data Science, Excel VBA, Microsoft Excel, Microsoft Power BI  
@@ -45,5 +59,5 @@ Designed an AI-based **object detection system** to enhance workplace safety in 
 
 ## Connect with Me
 - **Email:** [kbasar.bq@gmail.com](mailto:kbasar.bq@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/md-khairul-basar-b19282247/](https://www.linkedin.com/in/md-khairul-basar-b19282247/)  
-- **WhatsApp:** [Chat with me](https://wa.me/+8801822887922/)
+- **LinkedIn:** [Md. Khairul Basar | LinkedIn](https://www.linkedin.com/in/md-khairul-basar-b19282247/)  
+- **WhatsApp:** [+880 1822 887922](https://wa.me/+8801822887922/)
