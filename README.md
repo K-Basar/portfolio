@@ -17,31 +17,31 @@
   - Designed and conducted tutorial sessions, improving learning effectiveness.
 
 ## Projects
-### 🚦 **Traffic Simulation & Optimization at LamaBazar Intersection**  
-📄 **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#)  
-🔹 Developed an **Arena simulation model** to optimize traffic flow at a congested **4-way intersection** in Sylhet.  
-🔹 Proposed **dedicated turning lanes**, reducing waiting time by **50-60%** and improving lane utilization to **92%**.  
-🔹 **Technologies:** Arena Simulation, Python, Excel  
+- **Traffic Simulation & Optimization at LamaBazar Intersection**  
+  - **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#)  
+  - Developed an **Arena simulation model** to optimize traffic flow at a congested **4-way intersection** in Sylhet.  
+  - Proposed **dedicated turning lanes**, reducing waiting time by **50-60%** and improving lane utilization to **92%**.  
+  - **Technologies:** Arena Simulation, Python, Excel  
 
-### 📊 **Dual-Prediction System** for Traffic Density & Vehicle Energy Consumption Using **Machine Learning**  
-🔹 Built a **Python-based ML model** for **real-time traffic density and fuel consumption prediction**.  
-🔹 Aids in **route optimization and fuel efficiency** for urban transportation.  
-🔹 **Technologies:** Python (Pandas, Scikit-learn), Machine Learning, Data Science  
+- **Dual-Prediction System** for Traffic Density & Vehicle Energy Consumption Using **Machine Learning**  
+  - Built a **Python-based ML model** for **real-time traffic density and fuel consumption prediction**.  
+  - Aids in **route optimization and fuel efficiency** for urban transportation.  
+  - **Technologies:** Python (Pandas, Scikit-learn), Machine Learning, Data Science  
 
-### 🔗 **Excel-ChatGPT Integration: Automating Web Scraping & AI Responses with VBA**  
-🔹 Integrated **ChatGPT with Excel VBA** to automate **web scraping and instant AI responses**.  
-🔹 Streamlined data extraction and **enhanced workflow automation**.  
-🔹 **Technologies:** Excel VBA, OpenAI API, Web Scraping  
+- **Excel-ChatGPT Integration: Automating Web Scraping & AI Responses with VBA**  
+  - Integrated **ChatGPT with Excel VBA** to automate **web scraping and instant AI responses**.  
+  - Streamlined data extraction and **enhanced workflow automation**.  
+  - **Technologies:** Excel VBA, OpenAI API, Web Scraping  
 
-### 🏭 **Bottleneck Analysis & Scheduling Optimization at Premium Fish & Agro Ind. Ltd.**  
-🔹 Conducted a **bottleneck analysis** of the production floor using **data-driven methods**.  
-🔹 Applied **scheduling techniques** to reduce **delays and increase efficiency**.  
-🔹 **Technologies:** Excel, Operations Research, Scheduling Algorithms  
+- **Bottleneck Analysis & Scheduling Optimization at Premium Fish & Agro Ind. Ltd.**  
+  - Conducted a **bottleneck analysis** of the production floor using **data-driven methods**.  
+  - Applied **scheduling techniques** to reduce **delays and increase efficiency**.  
+  - **Technologies:** Excel, Operations Research, Scheduling Algorithms  
 
-### 🏗 **Object Detection Safety System for Industrial Machinery**  
-🔹 Designed an **Object detection system** to enhance workplace safety.  
-🔹 Prevents machinery-related hazards by identifying risky movements in real-time.  
-🔹 **Technologies:** Computer Vision, Arduino  
+- **Object Detection Safety System for Industrial Machinery**  
+  - Designed an **Object detection system** to enhance workplace safety.  
+  - Prevents machinery-related hazards by identifying risky movements in real-time.  
+  - **Technologies:** Computer Vision, Arduino  
 
 ## Technical Skills
 - **Data Science & Analytics:** Python, Data Science, Excel VBA, Microsoft Excel, Microsoft Power BI  
