@@ -6,7 +6,7 @@
 ## Education
 - **B.Sc., Industrial & Production Engineering (IPE)**  
   **Shahjalal University of Science and Technology, Sylhet (SUST)**  
-  (2020-Present) | CGPA: 3.45/4.00 (Up to 7th semester)
+  (2020-Present) | CGPA: **3.45/4.00** (Up to 7th semester)
 
 ## Work Experience
 - **Remote Employee @ Industrial 3D Solutions (_2024 - Present_)**
@@ -50,21 +50,28 @@
 
 ## Certifications
 - **Excel/VBA for Creative Problem Solving**  
- - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
- - Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
- - Applied learning in real-world projects through a capstone design course.  
- - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
+  - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
+  - Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
+  - Applied learning in real-world projects through a capstone design course.  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
 
 - **Everyday Excel**  
- - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
- - Gained expertise in performing calculations, data visualization, and financial modeling in Excel.  
- - Learned advanced techniques such as lookups, dynamic array formulas, and managing large datasets.  
- - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W7T6SZ8DJ3EJ)  
+  - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
+  - Gained expertise in performing calculations, data visualization, and financial modeling in Excel.  
+  - Learned advanced techniques such as lookups, dynamic array formulas, and managing large datasets.  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W7T6SZ8DJ3EJ)  
 
 ## Technical Skills
-- **Data Science & Analytics:** Python, Data Science, Excel VBA, Microsoft Excel, Microsoft Power BI  
-- **Simulation & Modeling:** Arena Simulation Software, AutoCAD  
-- **General Software:** Microsoft Word, Microsoft PowerPoint  
+- **Data Science & Analytics:**
+  - Machine learning, |  - Data Science, |  - Python,
+  - Excel VBA, |  - Microsoft Excel,
+  - Microsoft Power BI  
+- **Simulation & Modeling:**
+  - Arena Simulation Software,
+  - AutoCAD  
+- **General Software:**
+  - Microsoft Word,
+  - Microsoft PowerPoint  
 
 ## Industrial Training
 - **Bangladesh Industrial Technical Assistance Centre (BITAC), Dhaka** (12 days)  
