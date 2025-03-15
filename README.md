@@ -65,7 +65,7 @@
 - **Data Science & Analytics:**
   - **Machine learning**,
   - **Data Science**,
-  - Python,
+  - **Python**,
   - **Excel VBA**,
   - **Microsoft Excel**,
   - **Microsoft Power BI**  
