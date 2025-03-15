@@ -10,8 +10,8 @@
 
 ## Work Experience
 - **Remote Employee @ Industrial 3D Solutions (_2024 - Present_)**
- - Developed custom Excel tools and automated VBA scripts to enhance team productivity.
- - Assisted in the procurement and supply of laboratory products for academic institutions, ensuring streamlined vendor coordination.
+  - Developed custom Excel tools and automated VBA scripts to enhance team productivity.
+  - Assisted in the procurement and supply of laboratory products for academic institutions, ensuring streamlined vendor coordination.
 
 ## Organizational Experience
 - **Leader, Cultural Team, IKSS** (_2024 - Present_)
