@@ -7,7 +7,7 @@
 - **B.Sc., Industrial & Production Engineering (IPE)**  
   **Shahjalal University of Science and Technology, Sylhet (SUST)**  
   (2020-Present) | CGPA: **3.45/4.00** (Up to 7th semester)
-- **HSC** (Science),  Sunflower School and College, Saidpur | GPA: 4.92/5.00
+- **HSC**,  Sunflower School and College, Saidpur | GPA: 4.92/5.00
   
 ## Work Experience
 - **Remote Employee @ Industrial 3D Solutions (_2024 - Present_)**
