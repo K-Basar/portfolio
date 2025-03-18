@@ -7,7 +7,8 @@
 - **B.Sc., Industrial & Production Engineering (IPE)**  
   **Shahjalal University of Science and Technology, Sylhet (SUST)**  
   (2020-Present) | CGPA: **3.45/4.00** (Up to 7th semester)
-
+- **HSC** (Science),  Sunflower School and College, Saidpur | GPA: 4.92/5.00
+  
 ## Work Experience
 - **Remote Employee @ Industrial 3D Solutions (_2024 - Present_)**
   - Developed custom Excel tools and automated VBA scripts to enhance team productivity.
@@ -21,6 +22,10 @@
 - **Executive Member, OBAT Tutorial** (_2020-2021_)
   - Designed and conducted tutorial sessions, improving learning effectiveness.
 
+## Achievements
+- Awarded a 60% scholarship for the **ISCEA Prize Case Competition 2024**
+- Finalist in **IPE Case Quest 1.0**
+
 ## Projects
 - **Traffic Simulation & Optimization at LamaBazar Intersection**  
   - **Conference Paper:** [8th International Conference on Engineering Research, Innovation and Education](#)  
@@ -33,15 +38,15 @@
   - Aids in **route optimization and fuel efficiency** for urban transportation.  
   - **Technologies:** Python (Pandas, Scikit-learn), Machine Learning, Data Science  
 
-- **Excel-ChatGPT Integration: Automating Web Scraping & AI Responses with VBA**  
-  - Integrated **ChatGPT with Excel VBA** to automate **web scraping and instant AI responses**.  
-  - Streamlined data extraction and **enhanced workflow automation**.  
-  - **Technologies:** Excel VBA, OpenAI API, Web Scraping  
-
 - **Bottleneck Analysis & Scheduling Optimization at Premium Fish & Agro Ind. Ltd.**  
   - Conducted a **bottleneck analysis** of the production floor using **data-driven methods**.  
   - Applied **scheduling techniques** to reduce **delays and increase efficiency**.  
   - **Technologies:** Excel, Operations Research, Scheduling Algorithms  
+
+- **Excel-ChatGPT Integration: Automating Web Scraping & AI Responses with VBA**  
+  - Integrated **ChatGPT with Excel VBA** to automate **web scraping and instant AI responses**.  
+  - Streamlined data extraction and **enhanced workflow automation**.  
+  - **Technologies:** Excel VBA, OpenAI API, Web Scraping  
 
 - **Object Detection Safety System for Industrial Machinery**  
   - Designed an **Object detection system** to enhance workplace safety.  
@@ -53,7 +58,34 @@
   - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
   - Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
   - Applied learning in real-world projects through a capstone design course.  
-  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)
+
+- **Introduction to Deep Learning with PyTorch**  
+  - *Issued by:* **DataCamp** | *Instructor:* Jonathan Cornelissen, CEO | *Date:* Mar 16, 2025  
+  - Covered foundational deep learning concepts using PyTorch, including tensors, automatic differentiation, neural networks, and model training.  
+  - Hands-on learning experience with practical implementation of deep learning models.  
+  - **Verification:** *(Include verification link if available)*  
+
+- **Python Data Structures**  
+  - *Issued by:* **University of Michigan (via Coursera)** | *Instructor:* Charles Severance | *Date:* Jul 19, 2023  
+  - Covered essential Python data structures, including lists, dictionaries, tuples, and sets, and their applications in solving real-world problems.  
+  - **Verification:** [Verify Certificate](http://coursera.org/verify/ZLMVHSWHL36U)  
+
+- **Using Python to Access Web Data**  
+  - *Issued by:* **University of Michigan (via Coursera)** | *Instructor:* Charles Severance | *Date:* Jul 30, 2023  
+  - Explored how to use Python to retrieve, parse, and process web data using APIs, web scraping, and working with HTML, XML, and JSON data formats.  
+  - **Verification:** [Verify Certificate](http://coursera.org/verify/V9LZRQHRYYPQ)  
+
+- **Programming for Everybody (Getting Started with Python)**  
+  - *Issued by:* **University of Michigan (via Coursera)** | *Instructor:* Charles Severance | *Date:* Jul 19, 2023  
+  - Introduced the basics of Python programming, including variables, conditional statements, loops, functions, and file handling.  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/62MHPG8D6GF3)  
+
+- **Prompt Engineering for ChatGPT**  
+  - *Issued by:* **Vanderbilt University (via Coursera)** | *Instructor:* Dr. Jules White | *Date:* Jul 11, 2023  
+  - Explored techniques for crafting effective prompts to enhance ChatGPT's responses.  
+  - Covered prompt structuring, contextual optimization, and refining AI-generated outputs.  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/HURZNQASXAY4)  
 
 - **Everyday Excel**  
   - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
