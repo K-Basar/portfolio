@@ -127,7 +127,7 @@
 ## Interests
 **Poetry**, Chess, Reading, Travelling
 
-## REFERENCES
+## References
 
 - ### Dr. Abul Mukid Mohammad Mukaddes
   - Professor,
