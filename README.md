@@ -104,19 +104,19 @@
 
 ## Technical Skills
 - **Data Science & Analytics:**
- - Machine Learning
- - Deep Learning
- - Data Science
- - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch)
- - Excel VBA
- - Microsoft Excel
- - Microsoft Power BI  
+  - Machine Learning
+  - Deep Learning
+  - Data Science
+  - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch)
+  - Excel VBA
+  - Microsoft Excel
+  - Microsoft Power BI  
 - **Simulation & Modeling:**
- - Arena Simulation Software
- - AutoCAD
+  - Arena Simulation Software
+  - AutoCAD
 - **General Software:**
- - Microsoft Word
- - Microsoft PowerPoint  
+  - Microsoft Word
+  - Microsoft PowerPoint  
 
 ## Industrial Training
 - **Bangladesh Industrial Technical Assistance Centre (BITAC), Dhaka** (12 days)  
