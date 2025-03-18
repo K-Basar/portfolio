@@ -103,21 +103,19 @@
   - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W/T65Z8DJ3EI)  
 
 ## Technical Skills
-- **Data Science & Analytics:**  
+- **Data Science & Analytics:**
  - Machine Learning
  - Deep Learning
- - Data Science  
+ - Data Science
  - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch)
- - Excel VBA  
- - Microsoft Excel  
+ - Excel VBA
+ - Microsoft Excel
  - Microsoft Power BI  
-
-- **Simulation & Modeling:**  
+- **Simulation & Modeling:**
  - Arena Simulation Software
  - AutoCAD
-
-- **General Software:**  
- - Microsoft Word  
+- **General Software:**
+ - Microsoft Word
  - Microsoft PowerPoint  
 
 ## Industrial Training
