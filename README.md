@@ -102,15 +102,15 @@
   - Applied skills in real-world projects through a capstone design course, allowing learners to tailor their experience by choosing projects of varying difficulty levels.  
   - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W/T65Z8DJ3EI)  
 
-## Technical Skills# Technical Skills
-| **Data Science & Analytics**       | **Simulation & Modeling**       | **General Software**       |
-|------------------------------------|---------------------------------|----------------------------|
-| - Machine Learning                 | - Arena Simulation Software     | - Microsoft Word           |
-| - Data Science                     | - AutoCAD                       | - Microsoft PowerPoint     |
-| - Python                           |                                 |                            |
-| - Excel VBA                        |                                 |                            |
-| - Microsoft Excel                  |                                 |                            |
-| - Microsoft Power BI               |                                 |                            |
+## Technical Skills
+| Data Science & Analytics | Simulation & Modeling | General Software |
+|---|---|---|
+| - Machine Learning | - Arena Simulation Software | - Microsoft Word |
+| - Data Science | - AutoCAD | - Microsoft PowerPoint |
+| - Python | | |
+| - Excel VBA | | |
+| - Microsoft Excel | | |
+| - Microsoft Power BI | | |
 
 ## Industrial Training
 - **Bangladesh Industrial Technical Assistance Centre (BITAC), Dhaka** (12 days)  
