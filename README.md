@@ -56,9 +56,13 @@
 ## Certifications
 - **Excel/VBA for Creative Problem Solving**  
   - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 15, 2023  
+  - This specialization consists of 3 courses:  
+    1. Excel/VBA for Creative Problem Solving, Part 1  
+    2. Excel/VBA for Creative Problem Solving, Part 2  
+    3. Excel/VBA for Creative Problem Solving, Part 3 (Projects)  
   - Covered essential VBA programming skills for Excel, including user-defined functions, string functions, iterating through worksheets/workbooks, and creating user forms.  
   - Applied learning in real-world projects through a capstone design course.  
-  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/ZQ7CFZSYQ8LU)  
 
 - **Introduction to Deep Learning with PyTorch**  
   - *Issued by:* **DataCamp** | *Instructor:* Jonathan Cornelissen, CEO | *Date:* Mar 16, 2025  
@@ -89,9 +93,14 @@
 
 - **Everyday Excel**  
   - *Issued by:* **University of Colorado Boulder (via Coursera)** | *Instructor:* Charlie Nuttelman, Ph.D. | *Date:* Sep 11, 2022  
+  - This specialization consists of 3 courses:  
+    1. Everyday Excel, Part 1  
+    2. Everyday Excel, Part 2  
+    3. Everyday Excel, Part 3 (Projects)  
   - Gained expertise in performing calculations, data visualization, and financial modeling in Excel.  
   - Learned advanced techniques such as lookups, dynamic array formulas, and managing large datasets.  
-  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W7T6SZ8DJ3EJ)  
+  - Applied skills in real-world projects through a capstone design course, allowing learners to tailor their experience by choosing projects of varying difficulty levels.  
+  - **Verification:** [Verify Certificate](https://coursera.org/verify/specialization/W/T65Z8DJ3EI)  
 
 ## Technical Skills
 - **Data Science & Analytics:**
