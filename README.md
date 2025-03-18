@@ -127,3 +127,16 @@
 ## Interests
 **Poetry**, Chess, Reading, Travelling
 
+## REFERENCES
+
+- ### Dr. Abul Mukid Mohammad Mukaddes
+  - Professor,
+  - Department of Industrial & Production Engineering, SUST
+  - Phone number: +880 1777-8891684
+  - Email: [mukaddes-jpe@sust.edu](mailto:mukaddes-jpe@sust.edu)  
+
+- ### Engr. Md Toushif Uddin
+  - Manager (Operation & Supply Chain)
+  - Industrial 3D Solution
+  - Phone number: +880 1752-125925
+  - Email: [toushif@tarfo-bd.com](mailto:toushif@tarfo-bd.com)  
